@@ -1,0 +1,39 @@
+body{
+
+    background-color: cadetblue;
+}
+
+h3{
+
+
+    text-align: center;
+    padding: 20px;
+    text-transform: capitalize;
+    font-size:25px ;
+}
+
+.hasDatepicker{
+
+    padding: 10px;
+    border: 1px solid #000;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 400px;
+}
+
+.btn-submit{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: crimson;
+    color:#fff;
+}
